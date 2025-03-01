@@ -1,0 +1,130 @@
+Number,SUB RMENU CODE,CODE DESCRIPTION
+1,EUAC,Air Conditioning
+2,EUAL,Alternating Current
+3,EUATC,ATC RC&S Equipment
+4,EUBK,Brakes
+5,EUBO,Body
+6,EUCA,Compressed Air
+7,EUCD,Consequential Delay (2nd Delay Same Fault)
+8,EUCH,Chopper Control
+9,EUCO,Couplers
+10,EUDO,Door Problems - Faulty Equipment
+11,EUECD,ECD / Line Mechanic Related Prob.
+12,EUHV,High Voltage
+13,EULT,Lighting System
+14,EULV,Low Voltage
+15,EUME,RC&S Maintenance Error - (Human)
+16,EUNEA,No Equipment Available
+17,EUNT,Equipment - No Trouble Found
+18,EUO,RC&S Other
+19,EUOE,Rail Cars & Shops Opr. Error
+20,EUOPO,OPTO RC&S Non-Train Door Monitoring
+21,EUPI,Propulsion System
+22,EUSC,Speed Control Equipment  
+23,EUTL,Trainline System
+24,EUTM,Traction Motors
+25,EUTR,Trucks
+26,EUTRD,TR Cab Doors
+27,EUVA,Warning Alarm Systems
+28,EUVE,Work Vehicle
+29,EUYRD,Yard/Carhouse Related Problems
+30,MUATC,ATC Project
+31,MUCL,Divisional Clerk Related
+32,MUD,Door Problems - Passenger Related
+33,MUDD,Door Problems - Debris Related
+34,MUEC,Misc. Engineering & Construction Related Problems
+35,MUESA,No Operator Immediately Available
+36,MUFM,Force Majeure
+37,MUFS,Fire/Smoke Plan B - Source External to TTC
+38,MUGD,Miscellaneous General Delays
+39,MUI,Injured or ill Customer (On Train) - Transported
+40,MUIE,Injured Employee
+41,MUIR,Injured or ill Customer (On Train) - Medical Aid Refused
+42,MUIRS,Injured or ill Customer (In Station) - Medical Aid Refused
+43,MUIS,Injured or ill Customer (In Station) - Transported
+44,MULD,Labour Dispute - Subway
+45,MUNOA,No Operator Immediately Available - Not E.S.A. Related 
+46,MUO,Miscellaneous Other
+47,MUODC,Overhead Door Contact
+48,MUPAA,Passenger Assistance Alarm Activated - No Trouble Found
+49,MUPLA,Fire/Smoke Plan A
+50,MUPLB,Fire/Smoke Plan B - Source TTC
+51,MUPLC,Fire/Smoke Plan C
+52,MUPR1,Priority One - Train in Contact With Person
+53,MUSAN,Unsanitary Vehicle
+54,MUSC,Miscellaneous Speed Control
+55,MUTD,Training Department Related Delays
+56,MUTO,Misc. Transportation Other - Employee Non-Chargeable
+57,MUWEA,Weather Reports / Related Delays
+58,MUWR,Work Refusal
+59,PUATC,ATC Signals Other
+60,PUCBI,Central Logic Controller Failure
+61,PUCSC,Signal Control Problem - Signals
+62,PUCSS,Central Office Signalling System
+63,PUDCS,Data Communications System Failure
+64,PUMEL,Escalator/Elevator Incident
+65,PUMO,Station Other
+66,PUMST,Station Stairway Incident 
+67,PUOPO,OPTO (COMMS) Train Door Monitoring
+68,PUSAC,Signals Axle Counter Block Failure
+69,PUSBE,Beacon Failure
+70,PUSCA,SCADA Related Problems 
+71,PUSCR,Subway Car Radio Fault 
+72,PUSEA,EAS Failure                               
+73,PUSI,Signals or Related Components Failure 
+74,PUSIO,Smart IO Failure
+75,PUSIS,Signals Track Weather Related
+76,PUSLC,Signals Line Countroller Failure
+77,PUSNT,Signal Problem - No Trouble
+78,PUSO,S/E/C Department Other
+79,PUSRA,Subway Radio System Fault 
+80,PUSSW,Track Switch Failure - Signal Related Problem
+81,PUSTC,Signals - Track Circuit Problems
+82,PUSTP,Traction Power or Related Components Failure
+83,PUSTS,Signals - Train Stops
+84,PUSWZ,Work Zone Problems - Signals
+85,PUSZC,Signals Zone Countroller Failure
+86,PUTCD,T & S Contractor Problems
+87,PUTD,Track Level Debris - Controllable
+88,PUTDN ,Debris At Track Level - Uncontrollable
+89,PUTIJ,Insulated Joint Related Problem
+90,PUTIS,Ice / Snow Related Problems
+91,PUTNT,T&S Related Problem - NTF
+92,PUTO,T&S Other
+93,PUTOE,T & S Operator Related Problems
+94,PUTR,Rail Related Problem
+95,PUTS,Structure Related Problem
+96,PUTSC,Signal Control Problem - Track
+97,PUTSM,Track Switch Failure - Track Related Problem
+98,PUTTC,Track Circuit Problems - Re: Defective Bolts/Bonding
+99,PUTTP,Traction Power Rail Related
+100,PUTWZ,Work Zone Problems - Track
+101,SUAE,Assault / Employee Involved
+102,SUAP,Assault / Patron Involved
+103,SUBT,Bomb Threat
+104,SUCOL,Collector Booth Alarm Activated
+105,SUDP,Disorderly Patron
+106,SUEAS,Emergency Alarm Station Activation
+107,SUG,Graffiti / Scratchiti
+108,SUO,Passenger Other
+109,SUPOL,Held By Polce - Non-TTC Related
+110,SUROB,Robbery
+111,SUSA,Sexual Assault
+112,SUSP,Suspicious Package
+113,SUUT,Unauthorized at Track Level
+114,TUATC,ATC Operator Related
+115,TUCC,Transit Control Related Problems
+116,TUDOE,Doors Open in Error
+117,TUKEY,Two Drum Switch Keys Activated
+118,TUML,Mainline Storage
+119,TUMVS,Operator Violated Signal
+120,TUNIP,Operator Not In Position
+121,TUNOA,No Operator Immediately Available 
+122,TUO,Transportation Department - Other
+123,TUOPO,OPTO Operator Related
+124,TUOS,Operator Overshot Platform
+125,TUS,Crew Unable to Maintain Schedule
+126,TUSC,Operator Overspeeding
+127,TUSET,Train Controls Improperly Shut Down
+128,TUST,Storm Trains
+129,TUSUP,Supervisory Error
