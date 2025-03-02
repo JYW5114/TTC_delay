@@ -43,8 +43,8 @@ jupyter notebook ttc_streetcar.ipynb
 This project is licensed under the MIT License.
 
 ## Authors
-Yiwei Jiang
-Anh Dang Phuong
-Shannon Tanoto
+- Yiwei Jiang
+- Anh Dang Phuong
+- Shannon Tanoto
 
 # Subway Analysis
