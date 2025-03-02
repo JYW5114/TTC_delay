@@ -1,0 +1,71 @@
+Station,Line,Location[a],Grade,Opened[8][9],Ridership (2023-2024[10] avg. weekday),Platforms,Terminal within fare-paid area,Transfers[11],Accessible[12],fullAddress,lat,long
+Finch,,North York,Underground,1974,70775,Centre,Yes,Finch Bus Terminal  York Region Transit Viva Blue Viva Pink GO Transit bus services,Yes,"Finch Station, Toronto, Canada",43.7827501,-79.41488829825582
+North York Centre,,North York,Underground,1987,16699,Side,No,,Yes,"North York Centre Station, Toronto, Canada",43.7686787,-79.4126298
+Sheppard-Yonge,,North York,Underground,"1974, 2002",92828,"Centre, side (roughed-in Spanish solution)",Yes,,Yes,"Sheppard-Yonge Station, Toronto, Canada",43.7616974,-79.4118887
+York Mills,,North York,Underground,1973,20498,Centre,Yes,GO Transit bus services,Yes,"York Mills Station, Toronto, Canada",43.7451771,-79.4059651
+Lawrence,,Old Toronto,Underground,1973,21197,Centre,Yes,,No,"Lawrence Station, Toronto, Canada",43.7251429,-79.4022824
+Eglinton,,Old Toronto,Underground,1954,60814,Centre,Yes,,Yes,"Eglinton Station, Toronto, Canada",43.7049424,-79.3985309
+Davisville,,Old Toronto,Surface,1954,15903,Side,Yes,,Yes,"Davisville Station, Toronto, Canada",43.6976475,-79.3969607
+St. Clair,,Old Toronto,Underground,1954,27336,Side,Yes,TTC streetcars,Yes,"St. Clair Station, Toronto, Canada",43.687873,-79.391838
+Summerhill,,Old Toronto,Underground,1954,5045,Side,No,,No,"Summerhill Station, Toronto, Canada",43.68229585,-79.39077690652948
+Rosedale,,Old Toronto,Surface,1954,4875,Side,Yes,,No,"Rosedale Station, Toronto, Canada",43.67646405,-79.38853674148251
+Bloor-Yonge,,Old Toronto,Underground,"1954, 1966",278184,"Side, centre",No,,Yes,"Bloor-Yonge Station, Toronto, Canada",43.6707855,-79.3856867
+Wellesley,,Old Toronto,Underground,1954,17705,Side,Yes,,Yes,"Wellesley Station, Toronto, Canada",43.665403,-79.3836001
+College,,Old Toronto,Underground,1954,39137,Side,No,TTC streetcars,No,"College Station, Toronto, Canada",43.6606617,-79.3827952
+Dundas,,Old Toronto,Underground,1954,72406,Side,No,TTC streetcars,Yes,"Dundas Station, Toronto, Canada",43.6565367,-79.3810223
+Queen,,Old Toronto,Underground,1954,36714,Side,No,TTC streetcars,Yes,"Queen Station, Toronto, Canada",43.6529083,-79.3794575
+King,,Old Toronto,Underground,1954,35107,Side,No,TTC streetcars,No,"King Station, Toronto, Canada",43.6485227,-79.3777728
+Union,,Old Toronto,Underground,1954,136515,"Side, one-sided centre",Yes,TTC streetcars  Union Station  Lakeshore West Lakeshore East Milton Kitchener Barrie Richmond Hill Stouffville Union Pearson Express Canadian Corridor Maple Leaf  Union Station Bus Terminal GO Transit busesOntario NorthlandCoach Canada / MegabusTOK Coachlines,Yes,"Union Station, Toronto, Canada",43.6447101,-79.38013965704317
+St. Andrew,,Old Toronto,Underground,1963,34576,Centre,No,TTC streetcars,Yes,"St. Andrew Station, Toronto, Canada",,
+Osgoode,,Old Toronto,Underground,1963,19323,Centre,No,TTC streetcars,Yes,"Osgoode Station, Toronto, Canada",43.6508016,-79.3865409
+St. Patrick,,Old Toronto,Underground,1963,23989,Centre,No,TTC streetcars,Yes,"St. Patrick Station, Toronto, Canada",43.6548308,-79.3883485
+Queen's Park,,Old Toronto,Underground,1963,34444,Centre,No,TTC streetcars,Yes,"Queen's Park Station, Toronto, Canada",43.6596838,-79.3901923
+Museum,,Old Toronto,Underground,1963,9604,Centre,No,,No,"Museum Station, Toronto, Canada",43.6668462,-79.3933506
+St. George,,Old Toronto,Underground,"1963, 1966",209994,"Centre, Centre",Yes,,Yes,"St. George Station, Toronto, Canada",43.6686549,-79.398109
+Spadina,,Old Toronto,Underground,"1978, 1966",39080,"Side, side",Yes,TTC streetcars,Yes No,"Spadina Station, Toronto, Canada",43.6672546,-79.403828
+Dupont,,Old Toronto,Underground,1978,11084,Side,No,,Yes,"Dupont Station, Toronto, Canada",43.6747046,-79.406983
+St. Clair West,,York,Underground,1978,21013,Side,Yes,TTC streetcars,Yes,"St. Clair West Station, Toronto, Canada",43.6842388,-79.4153753
+Eglinton West,,Old Toronto,Underground/surface,1978,13982,Side,Yes,,Yes,"Eglinton West Station, Toronto, Canada",43.6995707,-79.4364738
+Glencairn,,North York,Surface,1978,5878,Centre,No,,Yes,"Glencairn Station, Toronto, Canada",43.709568,-79.441296
+Lawrence West,,North York,Surface,1978,19742,Centre,Yes,,Yes,"Lawrence West Station, Toronto, Canada",43.7148335,-79.44374061169376
+Yorkdale,,North York,Surface,1978,19725,Centre,No[b],Yorkdale Bus Terminal  GO Transit bus servicesOntario Northland,Yes,"Yorkdale Station, Toronto, Canada",43.7246418,-79.4475031
+Wilson,,North York,Surface,1978,21579,Centre,Yes,,Yes,"Wilson Station, Toronto, Canada",43.734787,-79.4508764
+Sheppard West,,North York,Underground,1996,19495,Centre,Yes,York Region Transit,Yes,"Sheppard West Station, Toronto, Canada",43.74925275,-79.46222522403818
+Downsview Park,,North York,Underground,2017,5618,Centre,No,Barrie,Yes,"Downsview Park Station, Toronto, Canada",43.75348,-79.4782844
+Finch West,,North York,Underground,2017,18345,Centre,Yes,,Yes,"Finch West Station, Toronto, Canada",43.765132699999995,-79.49102291851625
+York University,,North York,Underground,2017,20447,Centre,No,Züm,Yes,"York University Station, Toronto, Canada",43.7741232,-79.4996291
+Pioneer Village,,North York,Underground,2017,16570,Centre,Yes,York Region Transit,Yes,"Pioneer Village Station, Toronto, Canada",43.7768779,-79.5089377
+Highway 407,,Vaughan,Underground,2017,7649,Centre,No[b],York Region Transit  GO Transit bus services Ontario Northland,Yes,"Highway 407 Station, Toronto, Canada",43.783215,-79.5237479
+Vaughan,,Vaughan,Underground,2017,20394,Centre,No[b],York Region Transit  Viva Orange  Züm,Yes,"Vaughan Station, Toronto, Canada",43.7942439,-79.5274867
+Kipling,,Etobicoke,Surface,1980,49392,Centre,Yes,MiWay  Milton,Yes,"Kipling Station, Toronto, Canada",43.63753245,-79.53560410315569
+Islington,,Etobicoke,Underground,1968,25023,Centre,Yes,,No,"Islington Station, Toronto, Canada",43.645335,-79.5248163
+Royal York,,Etobicoke,Underground,1968,17337,Side,Yes,,Yes,"Royal York Station, Toronto, Canada",43.648159,-79.5110647
+Old Mill,,Etobicoke,Underground/elevated,1968,6109,Side,No[c],,No,"Old Mill Station, Toronto, Canada",43.6501618,-79.495091
+Jane,,Old Toronto,Underground,1968,14953,Side,No[c],,Yes,"Jane Station, Toronto, Canada",43.6500872,-79.4833259
+Runnymede,,Old Toronto,Underground,1968,15838,Side,No[c],,Yes,"Runnymede Station, Toronto, Canada",43.6517581,-79.4759426
+High Park,,Old Toronto,Underground/surface,1968,9173,Side,No[c],,No,"High Park Station, Toronto, Canada",43.6540856,-79.4660951
+Keele,,Old Toronto,Elevated,1966,16305,Side,Yes,,Yes,"Keele Station, Toronto, Canada",43.6556443,-79.4597782
+Dundas West,,Old Toronto,Underground,1966,23861,Side,Yes,TTC streetcars  Kitchener  Union Pearson Express,Yes,"Dundas West Station, Toronto, Canada",43.65673098568642,-79.4538194909717
+Lansdowne,,Old Toronto,Underground,1966,17406,Side,No,,Yes,"Lansdowne Station, Toronto, Canada",43.6593524,-79.44319175000001
+Dufferin,,Old Toronto,Underground,1966,26800,Side,No,,Yes,"Dufferin Station, Toronto, Canada",43.6602635,-79.4353869
+Ossington,,Old Toronto,Underground,1966,22109,Side,Yes,,Yes,"Ossington Station, Toronto, Canada",43.6623565,-79.4263675
+Christie,,Old Toronto,Underground,1966,11407,Side,No,,No,"Christie Station, Toronto, Canada",43.6640809,-79.4185289
+Bathurst,,Old Toronto,Underground,1966,30598,Side,Yes,TTC streetcars,Yes,"Bathurst Station, Toronto, Canada",43.66641590196867,-79.41130918066413
+Bay,,Old Toronto,Underground,1966,20980,Centre,No,,Yes,"Bay Station, Toronto, Canada",43.6701851,-79.3902694
+Sherbourne,,Old Toronto,Underground,1966,24689,Side,No,,Yes,"Sherbourne Station, Toronto, Canada",43.67218771983478,-79.37648191432166
+Castle Frank,,Old Toronto,Underground,1966,8943,Side,Yes,,Yes,"Castle Frank Station, Toronto, Canada",43.6734986,-79.3690458
+Broadview,,Old Toronto,Underground,1966,11720,Side,Yes,TTC streetcars,Yes,"Broadview Station, Toronto, Canada",43.6770471,-79.35839530606879
+Chester,,Old Toronto,Underground,1966,6197,Side,No,,Yes,"Chester Station, Toronto, Canada",43.6782277,-79.3525143
+Pape,,Old Toronto,Underground,1966,34506,Side,Yes,,Yes,"Pape Station, Toronto, Canada",43.6800489,-79.3445666
+Donlands,,Old Toronto,Underground,1966,6317,Side,Yes,,Yes,"Donlands Station, Toronto, Canada",43.6808549,-79.3377699
+Greenwood,,Old Toronto,Underground,1966,9567,Side,No[c],,No,"Greenwood Station, Toronto, Canada",43.6824765,-79.3302798
+Coxwell,,Old Toronto,Underground,1966,13450,Side,Yes,,Yes,"Coxwell Station, Toronto, Canada",43.6839754,-79.3229654
+Woodbine,,Old Toronto,Underground,1966,10803,Side,Yes,,Yes,"Woodbine Station, Toronto, Canada",43.6864139,-79.3126246
+Main Street,,Old Toronto,Underground,1968,18682,Side,Yes,TTC streetcars  Lakeshore East  Stouffville,Yes,"Main Street Station, Toronto, Canada",43.689078,-79.3019411
+Victoria Park,,Scarborough,Surface,1968,32276,Side,Yes,,Yes,"Victoria Park Station, Toronto, Canada",43.6948696,-79.288797
+Warden,,Scarborough,Surface,1968,21843,Centre,Yes,,No,"Warden Station, Toronto, Canada",43.7109952,-79.2798858
+Kennedy,,Scarborough,Underground,1980,42881,Centre,Yes,Stouffville,Yes,"Kennedy Station, Toronto, Canada",43.7325599,-79.2638992
+Bayview,,North York,Underground,2002,6205,Centre,No,,Yes,"Bayview Station, Toronto, Canada",43.7667987,-79.3873787
+Bessarion,,North York,Underground,2002,3180,Centre,No,,Yes,"Bessarion Station, Toronto, Canada",43.7690604,-79.37588370821047
+Leslie,,North York,Underground,2002,3988,Centre,Yes,Richmond Hill,Yes,"Leslie Station, Toronto, Canada",43.7704145,-79.3676705
+Don Mills,,North York,Underground,2002,28709,Centre,Yes,York Region Transit,Yes,"Don Mills Station, Toronto, Canada",43.775347,-79.3459439
