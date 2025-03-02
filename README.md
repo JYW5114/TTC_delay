@@ -1,5 +1,4 @@
 # TTC_delay
-# Subway Analysis
 
 ## Overview
 This project analyzes subway delay data to identify patterns and insights. The analysis includes data loading, cleaning, and visualization of subway performance metrics.
@@ -7,8 +6,9 @@ This project analyzes subway delay data to identify patterns and insights. The a
 ## Installation
 Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/subway_analysis.git
+   git clone https://github.com/JYW5114/TTC_delay.git
    ```
+
 
 ## Usage
 Run the Jupyter Notebook to analyze subway delay data:
@@ -47,3 +47,4 @@ Yiwei Jiang
 Anh Dang Phuong
 Shannon Tanoto
 
+# Subway Analysis
